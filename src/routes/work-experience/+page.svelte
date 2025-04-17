@@ -1,5 +1,5 @@
 <script lang="ts">
-	import Bio from './work-experience.svx';
+	import Bio from './work-experience.svelte';
 	import Nav from '../nav.svelte';
 </script>
 

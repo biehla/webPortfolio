@@ -1,5 +1,5 @@
 <script lang="ts">
-	import Bio from './capstone.svx';
+	import Bio from './capstone.svelte';
 	import Nav from '../nav.svelte';
 </script>
 

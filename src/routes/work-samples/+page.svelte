@@ -1,5 +1,5 @@
 <script lang="ts">
-	import Bio from './work-experience.svx';
+	import Bio from './work-samples.svelte';
 	import Nav from '../nav.svelte';
 </script>
 
@@ -10,7 +10,7 @@
 </header>
 <Nav />
 <article
-	class="bg-indigo-50 pt-15 pb-15 text-justify text-lg leading-8 font-medium text-wrap text-gray-900 md:rounded-b-2xl"
+	class="bg-indigo-50 pt-15 pb-15 text-justify leading-8 text-wrap text-gray-900 md:rounded-b-2xl"
 >
 	<div class="container mx-auto max-w-prose p-10">
 		<Bio />

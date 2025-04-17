@@ -1,5 +1,5 @@
 <script lang="ts">
-	import Bio from './philosophy.svx';
+	import Bio from './philosophy.svelte';
 	import Nav from '../nav.svelte';
 </script>
 

@@ -24,6 +24,7 @@
 						<NavButton href="/credentials" title="Credentials" />
 						<NavButton href="/capstone" title="Capstone" />
 						<NavButton href="/work-experience" title="Work Experience" />
+						<NavButton href="/work-samples" title="Work Samples" />
 					</div>
 				</div>
 			</div>
@@ -40,6 +41,7 @@
 				<NavButtonMobile href="/credentials" title="Credentials" />
 				<NavButton href="/capstone" title="Capstone" />
 				<NavButtonMobile href="/work-experience" title="Work Experience" />
+				<NavButtonMobile href="/work-samples" title="Work Samples" />
 
 				<!-- <a -->
 				<!-- 	href="#" -->
